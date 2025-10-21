@@ -23,6 +23,9 @@ website:
               - course/applications/applications-cv.ipynb
               - course/applications/applications-nlp.ipynb
               - course/applications/applications-tabular.ipynb
+          - section: Machine learning basics
+            contents:
+              - course/classical_ml/ml_recipe.ipynb
           - section: Fundamentals of deep learning 
             contents:
               - course/deep_learning/neural_networks_from_scratch.ipynb
