@@ -26,6 +26,7 @@ website:
           - section: Machine learning basics
             contents:
               - course/classical_ml/ml_recipe.ipynb
+              - course/classical_ml/pca.ipynb
           - section: Fundamentals of deep learning 
             contents:
               - course/deep_learning/neural_networks_from_scratch.ipynb
